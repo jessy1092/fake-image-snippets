@@ -1,0 +1,16 @@
+{
+  "name": "fake-image-snippets",
+  "version": "0.1.0",
+  "description": "Fake image please! snippets",
+  "keywords": [
+    "fake image",
+    "image"
+  ],
+  "repository": "https://github.com/jessy1092/fake-image-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
