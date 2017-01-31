@@ -1,4 +1,4 @@
-'.text.html, .text.html .meta.scope.between-tag-pair, .text.html .punctuation.tag.begin', '.source.js.jsx':
+'.text.html, .text.html .meta.scope.between-tag-pair, .text.html .punctuation.tag.begin, .source.js.jsx':
   'Fake Image':
     'prefix': 'fakeImg'
     'body': '<img src="http://fakeimg.pl/${1:350}x${2:200}/${3:bdd9d2}/${4:3f232a}/?text=${5:Fake-Image}">'
