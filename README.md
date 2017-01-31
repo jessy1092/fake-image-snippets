@@ -2,6 +2,10 @@
 
 This is snippets for set `<img>` placeholder with [fakeimg](https://fakeimg.pl/) quickly.
 
+## Install
+
+Search `fake-image-snippets` on package manager or `apm install fake-image-snippets`
+
 ## Documentation
 
 This snippet tabs through some options (default):
