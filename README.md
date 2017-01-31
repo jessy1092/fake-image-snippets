@@ -2,6 +2,8 @@
 
 This is snippets for set `<img>` placeholder with [fakeimg](https://fakeimg.pl/) quickly.
 
+## Documentation
+
 This snippet tabs through some options (default):
 
 - horizontal size 350
@@ -18,8 +20,16 @@ following are other options you can set:
 
 More detail you can see [fakeimg](https://fakeimg.pl/)
 
+## Example
 
-Example:
 `<img src="http://fakeimg.pl/350x200/bdd9d2/3f232a/?text=Fake-Image">`
 
 ![Example image](http://fakeimg.pl/350x200/bdd9d2/3f232a/?text=Fake-Image)
+
+## Contributing
+
+- Fork it!
+- Create your feature branch: `git checkout -b my-new-feature`
+- Commit your changes: `git commit -m 'Add some feature'`
+- Push to the branch: `git push origin my-new-feature`
+- Submit a pull request
