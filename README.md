@@ -6,6 +6,10 @@ This is snippets for set `<img>` placeholder with [fakeimg](https://fakeimg.pl/)
 
 Search `fake-image-snippets` on package manager or `apm install fake-image-snippets`
 
+## Usage
+
+![FakeImg Usage](./fakeimg.gif)
+
 ## Documentation
 
 This snippet tabs through some options (default):
