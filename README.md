@@ -1,5 +1,7 @@
 # fake-image snippets for Atom
 
+[![apm](https://img.shields.io/apm/dm/fake-image-snippets.svg?style=flat-square)](https://atom.io/packages/fake-image-snippets)
+
 This is snippets for set `<img>` placeholder with [fakeimg](https://fakeimg.pl/) quickly.
 
 ## Install
