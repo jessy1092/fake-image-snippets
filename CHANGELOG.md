@@ -1,3 +1,23 @@
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/jessy1092/fake-image-snippets/compare/v1.0.0...v1.0.1) (2017-02-05)
+
+
+### Bug Fixes
+
+* fix the fake square image snippets naming to prevent conflict ([1e872b6](https://github.com/jessy1092/fake-image-snippets/commit/1e872b6))
+
+
+
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/jessy1092/fake-image-snippets/compare/v0.2.1...v1.0.0) (2017-02-05)
+
+
+### Features
+
+* Add square fake image snippets ([2c49b05](https://github.com/jessy1092/fake-image-snippets/commit/2c49b05))
+
+
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://github.com/jessy1092/fake-image-snippets/compare/v0.2.0...v0.2.1) (2017-01-31)
 
