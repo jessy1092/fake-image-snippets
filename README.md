@@ -14,6 +14,10 @@ Search `fake-image-snippets` on package manager or `apm install fake-image-snipp
 
 ## Documentation
 
+There support two snippets now:
+- `fakeImg`: Add normal fakeimg.pl link on placeholder, ex: `<img src="http://fakeimg.pl/350x200/bdd9d2/3f232a/?text=Fake-Image">`
+- `fakeImgS`: Add square image by default, ex: `<img src="http://fakeimg.pl/350x350/bdd9d2/3f232a/?text=Fake-Image">`
+
 This snippet tabs through some options (default):
 
 - horizontal size 350
