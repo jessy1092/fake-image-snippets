@@ -9,4 +9,4 @@
 
   'Fake Src Square Image':
     'prefix': 'sfakeImgS'
-    'body': 'http://fakeimg.pl/${1:200}x${1:200}/${2:ff0000},${3:128}/${4:000}'
+    'body': 'http://fakeimg.pl/${1:200}x${1:200}/${2:000000},${3:128}/${4:000}'
