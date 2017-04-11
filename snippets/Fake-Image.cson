@@ -6,3 +6,7 @@
   'Fake Square Image':
     'prefix': 'fakeImgS'
     'body': '<img src="http://fakeimg.pl/${1:350}x${1:350}/${2:bdd9d2}/${3:3f232a}/?text=${4:Fake-Image}">'
+
+  'Fake Src Square Image':
+    'prefix': 'sfakeImgS'
+    'body': 'http://fakeimg.pl/${1:200}x${1:200}/${2:000000},${3:128}/${4:000}'
