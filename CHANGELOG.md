@@ -1,3 +1,13 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/jessy1092/fake-image-snippets/compare/v1.0.1...v1.1.0) (2017-04-11)
+
+
+### Features
+
+* create only src url ([019c8e2](https://github.com/jessy1092/fake-image-snippets/commit/019c8e2))
+
+
+
 <a name="1.0.1"></a>
 ## [1.0.1](https://github.com/jessy1092/fake-image-snippets/compare/v1.0.0...v1.0.1) (2017-02-05)
 
